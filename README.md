@@ -1,6 +1,6 @@
 <div align="center">
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=150&color=0067)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=150&color=0067A3)
 # 🌏💻 Hello, World! 💻🌏
 **동양미래대 컴퓨터소프트웨어공학과 2학년**   
 https://github.com/alwozmb
