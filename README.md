@@ -1,4 +1,5 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20World!&fontAlign=50&fontAlignY=40&fontSize=40)
+<div align="center">
 
-
+![waving](https://capsule-render.vercel.app/api?type=waving&height=150)
+# 🌏💻 Hello, World! 💻🌏
 <br><br><br>
