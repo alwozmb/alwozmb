@@ -1,5 +1,5 @@
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=I'm%20Jihyeon%20&fontAlign=50&fontAlignY=40&color=gradient&fontColor=363636)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20World%20&fontAlign=50&fontAlignY=40&color=gradient&fontColor=363636)
 
 
 <!--
