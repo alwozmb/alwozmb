@@ -22,4 +22,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br>
-  
+<br>
+<br>
+![waving](https://capsule-render.vercel.app/api?type=rect&height=25&color=008000)
