@@ -7,7 +7,7 @@
   <br>
   <br>
 
-### 😎 My Git Status . . . 😎
+### 😎 My GitHub Status . . . 😎
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alwozmb&show_icons=true&theme=flag-india)
 
