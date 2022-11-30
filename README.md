@@ -2,7 +2,16 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&color=008000)
 # 🌏💻 Hello, World! 💻🌏
-**컴퓨터소프트웨어공학과 2학년**   
+  **컴퓨터소프트웨어공학과 2학년** 
+  
+  <br>
+  <br>
+
+### 😎 My Git Status . . . 😎
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alwozmb&show_icons=true&theme=radical)
+
+
 <br>
 
 ### ⚙️ I'm Learning . . . ⚙️
@@ -14,5 +23,3 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
-
