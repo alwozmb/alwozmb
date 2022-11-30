@@ -3,8 +3,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&color=008000)
 # 🌏💻 Hello, World! 💻🌏
 **컴퓨터소프트웨어공학과 2학년**   
-https://github.com/alwozmb
-
 <br>
 
 ### ⚙️ I'm Learning . . . ⚙️
