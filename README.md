@@ -9,7 +9,7 @@
 
 ### 😎 My Git Status . . . 😎
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alwozmb&show_icons=true&theme=radical)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alwozmb&show_icons=true&theme=flag-india)
 
 
 <br>
