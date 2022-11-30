@@ -11,6 +11,7 @@
 ### 😎 My GitHub . . . 😎
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alwozmb&show_icons=true&theme=flag-india)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwozmb&theme=vue)
 
 
 <br>
