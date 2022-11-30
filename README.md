@@ -2,7 +2,8 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&color=008000)
 # 🌏💻 Hello, World! 💻🌏
-  **컴퓨터소프트웨어공학과 2학년** 
+ **동양미래대학교**   
+ **컴퓨터소프트웨어공학과 2학년** 
   
   <br>
   <br>
