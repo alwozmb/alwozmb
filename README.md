@@ -2,8 +2,6 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&color=008000)
    
-  <br>
-  <br>
 
 ### 😎 My GitHub . . . 😎
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwozmb&theme=vue)
